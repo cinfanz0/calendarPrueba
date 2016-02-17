@@ -82,7 +82,7 @@ public class MyService extends Service {
                     publishProgress(date);
                     triggerNotification();
                     //aqui prueba 2
-                    //otra linea
+                    //otra linea 22
                     // Stop 5s
                     Thread.sleep(10000); // 10segundos
                     //Toast.makeText(getApplicationContext(), "aqui sigue dando vuelta", Toast.LENGTH_SHORT).show();
